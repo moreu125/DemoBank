@@ -21,7 +21,7 @@ public class BankManagerPageTest extends WebMethods {
 		type("txtBoxLastName", "More");
 		type("txtBoxPostCode", "413108");
 		click("btnAddbutton");
-
+                //update are done is This test case
 		Assert.assertEquals("Customer added successfully with customer id :6", HandleAlert.AlertText());
 
 		HandleAlert.acceptAlert();
