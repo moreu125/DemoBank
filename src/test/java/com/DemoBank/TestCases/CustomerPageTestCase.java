@@ -1,5 +1,12 @@
 package com.DemoBank.TestCases;
 
-public class CustomerPageTestCase {
+import org.testng.annotations.Test;
 
+public class CustomerPageTestCase {
+   
+	
+	@Test
+	public void Test1() {
+		
+	}
 }
