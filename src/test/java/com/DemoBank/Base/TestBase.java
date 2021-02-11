@@ -38,6 +38,7 @@ public class TestBase {
 		 PropertyConfigurator.configure("log4j.properties");
 		configPro = PropertiesUtiles.set(".\\src\\test\\resources\\properties\\config.properties");
 		ORPro = PropertiesUtiles.set(".\\src\\test\\resources\\properties\\ORProperties.properties");
+		//This class is for steup of properties
 	}
 	@Parameters("browserName")
 	@BeforeMethod
