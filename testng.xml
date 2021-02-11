@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoBankTestSuit">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+		<listener class-name="com.DemoBank.listeners.CustomListeners"/>
+		<listener class-name="com.DemoBank.listeners.ExtentReporterNG"/>
+		
+		
+	</listeners>
+	<test name="LoginPageTest"   >
+		<parameter name="browserName" value="Chrome">
+		</parameter>
+		<classes>
+			<class name="com.DemoBank.TestCases.LoginPageTestCase"/>
+			<class name="com.DemoBank.Base.TestBase"/>
+			
+		</classes>
+	</test>
+	
+	<test name="BankManagerPageTest">
+		<parameter name="browserName" value="Chrome"></parameter>
+		<classes>
+			<class name="com.DemoBank.TestCases.BankManagerPageTest"/>
+			
+		</classes>
+		
+	</test>
+	<!-- Test -->
+</suite> <!-- Suite -->
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

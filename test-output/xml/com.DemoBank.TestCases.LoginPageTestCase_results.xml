@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPageTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.511">
+  <properties />
+  
+  
+            <testcase name="loginPageTitleTest" time="0.018" classname="com.DemoBank.TestCases.LoginPageTestCase" />
+                <testcase name="loginHomePageButtonTest" time="0.196" classname="com.DemoBank.TestCases.LoginPageTestCase" />
+                <testcase name="loginToManagerTest" time="0.297" classname="com.DemoBank.TestCases.LoginPageTestCase" />
+      
+</testsuite>
