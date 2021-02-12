@@ -1,26 +1,9 @@
-08/02/2021 12:35:25 devpinoyLogger Chrome is open
-08/02/2021 12:35:28 devpinoyLogger Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-08/02/2021 12:35:28 devpinoyLogger loginPageHomeButtonTest is start
-08/02/2021 12:35:28 devpinoyLogger btnHome is Displayed
-08/02/2021 12:35:28 devpinoyLogger Click to btnHome
-08/02/2021 12:35:28 devpinoyLogger loginPageHomeButton
-08/02/2021 12:35:30 devpinoyLogger Chrome is open
-08/02/2021 12:35:33 devpinoyLogger Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-08/02/2021 12:35:33 devpinoyLogger loginPageTitleTest is start
-08/02/2021 12:35:33 devpinoyLogger Login Page Title is  :Protractor practice website - Banking App
-08/02/2021 12:35:33 devpinoyLogger loginPageTitleTest is done
-08/02/2021 12:35:35 devpinoyLogger Chrome is open
-08/02/2021 12:35:38 devpinoyLogger Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-08/02/2021 12:35:38 devpinoyLogger loginToManagerTest is start
-08/02/2021 12:35:38 devpinoyLogger Click to btnLoginToManager
-08/02/2021 12:35:38 devpinoyLogger btnAddCustomer is Displayed
-08/02/2021 12:35:38 devpinoyLogger loginToManagerTest is done 
-08/02/2021 12:35:52 devpinoyLogger Chrome is open
-08/02/2021 12:35:55 devpinoyLogger Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-08/02/2021 12:35:55 devpinoyLogger Add Customer Test Star
-08/02/2021 12:35:55 devpinoyLogger Click to btnLoginToManager
-08/02/2021 12:35:55 devpinoyLogger Click to btnAddCustomer
-08/02/2021 12:35:56 devpinoyLogger Click to btnAddbutton
-08/02/2021 12:35:56 devpinoyLogger Alert Text is   : Customer added successfully with customer id :6
-08/02/2021 12:35:56 devpinoyLogger Alert is accepted
-08/02/2021 12:35:56 devpinoyLogger Add Customer Test is done 
+12/02/2021 13:25:47 devpinoyLogger Chrome is open
+12/02/2021 13:25:50 devpinoyLogger Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
+12/02/2021 13:25:50 devpinoyLogger Add Customer Test Star
+12/02/2021 13:25:50 devpinoyLogger Click to btnLoginToManager
+12/02/2021 13:25:51 devpinoyLogger Click to btnAddCustomer
+12/02/2021 13:25:51 devpinoyLogger Click to btnAddbutton
+12/02/2021 13:25:51 devpinoyLogger Alert Text is   : Customer added successfully with customer id :6
+12/02/2021 13:25:51 devpinoyLogger Alert is accepted
+12/02/2021 13:25:51 devpinoyLogger Add Customer Test is done 

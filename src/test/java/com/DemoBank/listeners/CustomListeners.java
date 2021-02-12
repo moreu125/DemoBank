@@ -63,17 +63,7 @@ public class CustomListeners implements ITestListener{
 
 	public void onFinish(ITestContext context) {
 	     
-		ZipUtils.zip(System.getProperty("user.dir")+"\\test-ouput");
-		MonitoringMail mail = new MonitoringMail();
-		try {
-			mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, TestConfig.messageBody, TestConfig.attachmentPath, TestConfig.attachmentName);
-		} catch (AddressException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (MessagingException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+	
 	
 	}
 

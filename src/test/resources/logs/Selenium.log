@@ -1,36 +1,19 @@
-12:35:25,284 DEBUG devpinoyLogger:51 - Chrome is open
-12:35:28,366 DEBUG devpinoyLogger:68 - Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-12:35:28,521 DEBUG devpinoyLogger:30 - loginPageHomeButtonTest is start
-12:35:28,581 DEBUG devpinoyLogger:27 - btnHome is Displayed
-12:35:28,796 DEBUG devpinoyLogger:14 - Click to btnHome
-12:35:28,797 DEBUG devpinoyLogger:35 - loginPageHomeButton
-12:35:30,309 DEBUG devpinoyLogger:51 - Chrome is open
-12:35:33,381 DEBUG devpinoyLogger:68 - Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-12:35:33,698 DEBUG devpinoyLogger:21 - loginPageTitleTest is start
-12:35:33,709 DEBUG devpinoyLogger:33 - Login Page Title is  :Protractor practice website - Banking App
-12:35:33,717 DEBUG devpinoyLogger:25 - loginPageTitleTest is done
-12:35:35,351 DEBUG devpinoyLogger:51 - Chrome is open
-12:35:38,375 DEBUG devpinoyLogger:68 - Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-12:35:38,528 DEBUG devpinoyLogger:41 - loginToManagerTest is start
-12:35:38,636 DEBUG devpinoyLogger:14 - Click to btnLoginToManager
-12:35:38,745 DEBUG devpinoyLogger:27 - btnAddCustomer is Displayed
-12:35:38,788 DEBUG devpinoyLogger:46 - loginToManagerTest is done 
-12:35:52,400 DEBUG devpinoyLogger:51 - Chrome is open
-12:35:55,115 DEBUG devpinoyLogger:68 - Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
-12:35:55,313 DEBUG devpinoyLogger:16 - Add Customer Test Star
-12:35:55,413 DEBUG devpinoyLogger:14 - Click to btnLoginToManager
-12:35:55,616 DEBUG devpinoyLogger:14 - Click to btnAddCustomer
-12:35:56,389 DEBUG devpinoyLogger:14 - Click to btnAddbutton
-12:35:56,424 DEBUG devpinoyLogger:19 - Alert Text is   : Customer added successfully with customer id :6
-12:35:56,451 DEBUG devpinoyLogger:14 - Alert is accepted
-12:35:56,452 DEBUG devpinoyLogger:29 - Add Customer Test is done 
-12:36:09,363 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-12:36:09,366 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-12:36:09,369 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-12:36:09,371 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-12:36:09,372 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/more/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-12:36:09,942 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-12:36:09,944 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-12:36:09,945 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-12:36:09,946 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-12:36:09,947 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/more/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:25:47,800 DEBUG devpinoyLogger:52 - Chrome is open
+13:25:50,353 DEBUG devpinoyLogger:69 - Navigate to URL :  http://www.way2automation.com/angularjs-protractor/banking/#/login
+13:25:50,602 DEBUG devpinoyLogger:16 - Add Customer Test Star
+13:25:50,751 DEBUG devpinoyLogger:14 - Click to btnLoginToManager
+13:25:51,160 DEBUG devpinoyLogger:14 - Click to btnAddCustomer
+13:25:51,778 DEBUG devpinoyLogger:14 - Click to btnAddbutton
+13:25:51,831 DEBUG devpinoyLogger:19 - Alert Text is   : Customer added successfully with customer id :6
+13:25:51,853 DEBUG devpinoyLogger:14 - Alert is accepted
+13:25:51,853 DEBUG devpinoyLogger:29 - Add Customer Test is done 
+13:25:52,985 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:25:52,987 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:25:52,989 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:25:52,991 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:25:52,992 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:25:53,529 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:25:53,530 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:25:53,533 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:25:53,533 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:25:53,534 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

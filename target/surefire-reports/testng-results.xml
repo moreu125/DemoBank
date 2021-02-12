@@ -1,99 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="4" passed="4" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[loginHomePageButtonTest is Passed]]>
-    </line>
-    <line>
-      <![CDATA[loginPageTitleTest is Passed]]>
-    </line>
-    <line>
-      <![CDATA[loginToManagerTest is Passed]]>
-    </line>
     <line>
       <![CDATA[AddCustomerTest is Passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-02-08T07:05:16Z" name="DemoBankTestSuit" finished-at="2021-02-08T07:05:56Z" duration-ms="39946">
+  <suite name="DemoBankTestSuit" duration-ms="8556" started-at="2021-02-12T07:55:43Z" finished-at="2021-02-12T07:55:51Z">
     <groups>
     </groups>
-    <test started-at="2021-02-08T07:05:16Z" name="LoginPageTest" finished-at="2021-02-08T07:05:38Z" duration-ms="21991">
-      <class name="com.DemoBank.TestCases.LoginPageTestCase">
-        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:16Z" name="setupMethod" finished-at="2021-02-08T12:35:28Z" duration-ms="11619" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupMethod -->
-        <test-method signature="loginHomePageButtonTest()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:28Z" name="loginHomePageButtonTest" finished-at="2021-02-08T12:35:28Z" duration-ms="279" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[loginHomePageButtonTest is Passed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- loginHomePageButtonTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:28Z" name="tearDown" finished-at="2021-02-08T12:35:28Z" duration-ms="68" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:28Z" name="setupMethod" finished-at="2021-02-08T12:35:33Z" duration-ms="4830" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupMethod -->
-        <test-method signature="loginPageTitleTest()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:33Z" name="loginPageTitleTest" finished-at="2021-02-08T12:35:33Z" duration-ms="20" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[loginPageTitleTest is Passed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- loginPageTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:33Z" name="tearDown" finished-at="2021-02-08T12:35:33Z" duration-ms="57" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:33Z" name="setupMethod" finished-at="2021-02-08T12:35:38Z" duration-ms="4751" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setupMethod -->
-        <test-method signature="loginToManagerTest()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:38Z" name="loginToManagerTest" finished-at="2021-02-08T12:35:38Z" duration-ms="263" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[loginToManagerTest is Passed]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- loginToManagerTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoBank.TestCases.LoginPageTestCase@119cbf96]" started-at="2021-02-08T12:35:38Z" name="tearDown" finished-at="2021-02-08T12:35:38Z" duration-ms="89" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.DemoBank.TestCases.LoginPageTestCase -->
-    </test> <!-- LoginPageTest -->
-    <test started-at="2021-02-08T07:05:51Z" name="BankManagerPageTest" finished-at="2021-02-08T07:05:56Z" duration-ms="5825">
+    <test name="BankManagerPageTest" duration-ms="8556" started-at="2021-02-12T07:55:43Z" finished-at="2021-02-12T07:55:51Z">
       <class name="com.DemoBank.TestCases.BankManagerPageTest">
-        <test-method is-config="true" signature="setProperties()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@95e33cc]" started-at="2021-02-08T12:35:16Z" name="setProperties" finished-at="2021-02-08T12:35:16Z" duration-ms="165" status="PASS">
+        <test-method status="PASS" signature="setProperties()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@b62fe6d]" name="setProperties" is-config="true" duration-ms="119" started-at="2021-02-12T13:25:43Z" finished-at="2021-02-12T13:25:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setProperties -->
-        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@95e33cc]" started-at="2021-02-08T12:35:51Z" name="setupMethod" finished-at="2021-02-08T12:35:55Z" duration-ms="4300" status="PASS">
+        <test-method status="PASS" signature="setupMethod(java.lang.String)[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@b62fe6d]" name="setupMethod" is-config="true" duration-ms="7165" started-at="2021-02-12T13:25:43Z" finished-at="2021-02-12T13:25:50Z">
           <params>
             <param index="0">
               <value>
@@ -104,14 +25,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupMethod -->
-        <test-method signature="AddCustomerTest()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@95e33cc]" started-at="2021-02-08T12:35:55Z" name="AddCustomerTest" finished-at="2021-02-08T12:35:56Z" duration-ms="1140" status="PASS">
+        <test-method status="PASS" signature="AddCustomerTest()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@b62fe6d]" name="AddCustomerTest" duration-ms="1254" started-at="2021-02-12T13:25:50Z" finished-at="2021-02-12T13:25:51Z">
           <reporter-output>
             <line>
               <![CDATA[AddCustomerTest is Passed]]>
             </line>
           </reporter-output>
         </test-method> <!-- AddCustomerTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@95e33cc]" started-at="2021-02-08T12:35:56Z" name="tearDown" finished-at="2021-02-08T12:35:56Z" duration-ms="383" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.DemoBank.TestCases.BankManagerPageTest@b62fe6d]" name="tearDown" is-config="true" duration-ms="124" started-at="2021-02-12T13:25:51Z" finished-at="2021-02-12T13:25:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

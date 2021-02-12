@@ -6,18 +6,9 @@
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
 		<listener class-name="com.DemoBank.listeners.CustomListeners"/>
 		<listener class-name="com.DemoBank.listeners.ExtentReporterNG"/>
+	</listeners>	
 		
-		
-	</listeners>
-	<test name="LoginPageTest"   >
-		<parameter name="browserName" value="Chrome">
-		</parameter>
-		<classes>
-			<class name="com.DemoBank.TestCases.LoginPageTestCase"/>
-			<class name="com.DemoBank.Base.TestBase"/>
-			
-		</classes>
-	</test>
+
 	
 	<test name="BankManagerPageTest">
 		<parameter name="browserName" value="Chrome"></parameter>
